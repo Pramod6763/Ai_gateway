@@ -1,10 +1,22 @@
 [
-    {"prompt": "What is AI?", "label": "fast"},
-    {"prompt": "Explain deep learning in detail", "label": "capable"},
-    {"prompt": "2+2", "label": "fast"},
-    {"prompt": "Write Python code for merge sort", "label": "capable"},
-    {"prompt": "Define gravity", "label": "fast"},
-    {"prompt": "Analyze time complexity of quicksort", "label": "capable"},
-    {"prompt": "Hello", "label": "fast"},
-    {"prompt": "Explain blockchain with examples", "label": "capable"}
-  ]
+  {"prompt": "What is AI?", "label": "fast"},
+  {"prompt": "Explain deep learning in detail", "label": "capable"},
+  {"prompt": "2+2", "label": "fast"},
+  {"prompt": "Write Python code for merge sort", "label": "capable"},
+  {"prompt": "Define gravity", "label": "fast"},
+  {"prompt": "Analyze time complexity of quicksort", "label": "capable"},
+  {"prompt": "Hello", "label": "fast"},
+  {"prompt": "Explain blockchain with examples", "label": "capable"},
+  {"prompt": "What is the capital of Japan?", "label": "fast"},
+  {"prompt": "Design a scalable microservices architecture for a streaming app", "label": "capable"},
+  {"prompt": "Translate 'good morning' to Spanish", "label": "fast"},
+  {"prompt": "Write a complete REST API using Node.js and Express with JWT authentication", "label": "capable"},
+  {"prompt": "Who wrote Hamlet?", "label": "fast"},
+  {"prompt": "Compare and contrast the economic impacts of inflation versus deflation", "label": "capable"},
+  {"prompt": "Give me a basic recipe for pancakes", "label": "fast"},
+  {"prompt": "Write a bash script to automate database backups and upload them to AWS S3", "label": "capable"},
+  {"prompt": "How many days are in a leap year?", "label": "fast"},
+  {"prompt": "Debug this React component and explain how to optimize its rendering lifecycle", "label": "capable"},
+  {"prompt": "What is the freezing point of water?", "label": "fast"},
+  {"prompt": "Summarize the key differences between classical mechanics and quantum mechanics", "label": "capable"}
+]
