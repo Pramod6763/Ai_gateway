@@ -1,0 +1,242 @@
+[
+  {
+    "time": "2026-03-25 23:58:34.558065",
+    "prompt": "Explain AI",
+    "model": "fast",
+    "reason": "confidence 0.97",
+    "latency": 0.05689668655395508,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:03:35.554868",
+    "prompt": "Explain AI",
+    "model": "fast",
+    "reason": "confidence 0.97",
+    "latency": 0.9342429637908936,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:13:19.649428",
+    "prompt": "Explain machine learning",
+    "model": "fast",
+    "reason": "confidence 0.95",
+    "latency": 1.378218173980713,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:20:47.828800",
+    "prompt": "Explain the working of neural networks with code a",
+    "model": "fast",
+    "reason": "confidence 0.87",
+    "latency": 2.5164148807525635,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:34:44.669220",
+    "prompt": "\"Explain the working of neural networks with code ",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.17298507690429688,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:35:26.471323",
+    "prompt": "Explain AI",
+    "model": "fast",
+    "reason": "confidence 0.8",
+    "latency": 1.0288636684417725,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:36:09.468207",
+    "prompt": "Explain blockchain with examples",
+    "model": "fast",
+    "reason": "confidence 0.8",
+    "latency": 1.2600982189178467,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:36:50.061945",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.1590583324432373,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:39:03.515393",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.19583511352539062,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:42:03.849251",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.16206097602844238,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:43:49.336196",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.16350793838500977,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:43:53.252244",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 00:46:12.547167",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.16270184516906738,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:47:10.609246",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.21638870239257812,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:48:01.445419",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.16559624671936035,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 00:55:39.837099",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.16379952430725098,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 01:05:49.751384",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.22165679931640625,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 01:07:56.241548",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 16.134485483169556,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 01:08:17.630452",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 01:08:17.841986",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:26:20.796327",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.3841719627380371,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 02:27:46.203782",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.1720583438873291,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 02:31:16.805596",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:31:19.447878",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:31:24.295922",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:31:43.096323",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:31:43.984786",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:35:13.084913",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "capable",
+    "reason": "confidence 0.9",
+    "latency": 0.18470978736877441,
+    "cache": "miss"
+  },
+  {
+    "time": "2026-03-26 02:35:27.535695",
+    "prompt": "Analyze time complexity of quicksort",
+    "model": "cache",
+    "reason": "cache hit",
+    "latency": 0.0,
+    "cache": "hit"
+  },
+  {
+    "time": "2026-03-26 02:35:53.559818",
+    "prompt": "What is AI",
+    "model": "fast",
+    "reason": "confidence 0.8",
+    "latency": 1.0139734745025635,
+    "cache": "miss"
+  }
+]

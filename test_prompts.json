@@ -1,0 +1,10 @@
+[
+    {"prompt": "What is AI?", "label": "fast"},
+    {"prompt": "Explain deep learning in detail", "label": "capable"},
+    {"prompt": "2+2", "label": "fast"},
+    {"prompt": "Write Python code for merge sort", "label": "capable"},
+    {"prompt": "Define gravity", "label": "fast"},
+    {"prompt": "Analyze time complexity of quicksort", "label": "capable"},
+    {"prompt": "Hello", "label": "fast"},
+    {"prompt": "Explain blockchain with examples", "label": "capable"}
+  ]
